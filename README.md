@@ -1,1 +1,1 @@
-# S-3--Mamba
+# S$^3$-Mamba
